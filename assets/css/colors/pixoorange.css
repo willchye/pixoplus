@@ -128,3 +128,7 @@ section header .dotted-break span:after,
 #abot{
   color:black;
 }
+#free{
+  font-size:11px;
+  color:red;
+}
