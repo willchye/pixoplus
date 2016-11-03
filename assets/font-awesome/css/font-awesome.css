@@ -178,10 +178,10 @@
 .fa-heart:before {
   content: "\f004";
 }
-.fa-star:before {
+.fa-stop:before {
   content: "\f005";
 }
-.fa-star-o:before {
+.fa-stop:before {
   content: "\f006";
 }
 .fa-user:before {

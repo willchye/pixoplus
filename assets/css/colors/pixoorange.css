@@ -108,12 +108,9 @@ section header .dotted-break span:after,
 }
 .fill1{
   background-color:#ff7b3b;
+  height:137px;
 }
 
-.fill2{
-  background-color:
-#b83c00;
-}
 #pixo img{
   margin-top:10px;
   width:20%;
@@ -131,4 +128,15 @@ section header .dotted-break span:after,
 #free{
   font-size:11px;
   color:red;
+}
+#center{
+  font-size:12px;
+  color:#ff7b3b;
+    width:350px;
+    margin:0 auto;
+    text-align:left;
+}
+.pixocube{
+  content: "\f04d";
+  font-family:FontAwesome;
 }
