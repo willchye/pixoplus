@@ -39,6 +39,12 @@ $special = $event.special.debouncedresize = {
     threshold: 250
 };
 
+
+$(function() {
+    var category = $('#portfolio .filter .active a').attr('data-filter');
+    Portfolio.filter(category);
+});
+
 // ======================= imagesLoaded Plugin ===============================
 // https://github.com/desandro/imagesloaded
 
@@ -372,7 +378,7 @@ var Grid = (function() {
             }
         },
         update: function($item) {
-
+ 
             if ($item) {
                 this.$item = $item;
             }

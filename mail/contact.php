@@ -4,10 +4,10 @@
 // Configuration
 //
 
-$toEmail = 'myemail@mydomain.com';                  // replace with your email where you would like to send email
-$subject = 'Contact form from my website';          // replace with subject you want to recieve
+$toEmail = 'willchye@gmail.com';                  // replace with your email where you would like to send email
+$subject = 'Contact form from PixoPlus Technology';    // replace with subject you want to recieve
 $body    = 'You have received email from website:'; // replace with text that you wnat to recieve in email
-$from    = 'info@mydomain.com';                     // replace with email that will look like sender
+$from    = 'willchye@gmail.com';                     // replace with email that will look like sender
 
 //
 // ----- do not edit after this line if you dont understand what you are doing -----
